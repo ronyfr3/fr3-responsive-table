@@ -42,9 +42,9 @@ export default App;
 
 ## Instruction
 
-1.Do not forget to add data-label => data-label="TABLE_DATA_NAME".
-2.You can style your table with your own class.
-3.See my git_repo to get details idea.
+-Do not forget to add data-label => data-label="TABLE_DATA_NAME".
+-You can style your table with your own class.
+-See my git_repo to get details idea.
 
 ## Author
 
