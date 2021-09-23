@@ -33,7 +33,7 @@ export default BasicTable;
 
 ## Instruction
 
-Do not forget to add data-label => <td data-label="XYZ">XYZ</td>
+Do not forget to add data-label => data-label="XYZ"
 
 ## Author
 
