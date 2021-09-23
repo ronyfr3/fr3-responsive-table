@@ -8,7 +8,7 @@ const ResponsiveTable = styled.table`
       width: 100%;
     }
     th {
-      width: 100%;
+      display: none;
     }
     table thead {
       border: none;
