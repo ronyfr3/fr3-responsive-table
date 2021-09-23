@@ -1,0 +1,26 @@
+{
+  "name": "fr3-responsive-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyfr3/fr3-responsive-table.git"
+  },
+  "keywords": [
+    "table",
+    "responsive"
+  ],
+  "author": "Abdur Rakib Rony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronyfr3/fr3-responsive-table/issues"
+  },
+  "homepage": "https://github.com/ronyfr3/fr3-responsive-table#readme",
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  }
+}
